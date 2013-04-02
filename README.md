@@ -1,3 +1,10 @@
+Replacement Icons for Chrome Extensions
+=============
+
+I hate icons that don't match. This is especially the case in Chrome where I have several extensions with various icon styles. I decided to create replacements to match standard Chrome icons. Replacement icons for more extensions are welcome!
+
+Preface
+------------
 Each directory is a Chrome Extension with new icons. The source .PSD is in the `Source` directory, and ready to go icons are in the "Icons" folder.
 
 Installation (Mac OS X)

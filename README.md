@@ -15,6 +15,6 @@ Installation (Mac OS X)
 2. Find the extension that you want replacement icons for.
 3. Copy the replacement icons from the `Icons` directory for the extension you want to replace.
 4. Open the Chrome extensions folder found at: `~/Library/Application Support/Google/Chrome/Default/Extensions/` (CMD + Shift + G in Finder will get you there).
-5. The extensions directories don't have a corresponding name to the extension, so hunt through each directory or seemingly arbitrary numbers and letters to find the extension that you want to replace the icon for.
+5. The extensions directories don't have a corresponding name to the extension, so hunt through each directory of seemingly arbitrary numbers and letters to find the extension that you want to replace the icon for.
 6. Paste the replacement icon from the `Icons` directory in to the correct directory in the extension, replacing the icon.
 5. Disable and re-enable the Chrome extension, or just restart Chrome to see the new icons. Voilà!
